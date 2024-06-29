@@ -17,23 +17,23 @@ const App = () => (
       <Hero />
     </section>
     <section className="padding">
-      <PopularProducts />{" "}
+      <PopularProducts />
     </section>
     <section className="padding">
-      <SuperQuality />{" "}
+      <SuperQuality />
     </section>
     <section className="padding-x py-10">
-      <Services />{" "}
+      <Services />
     </section>
     <section className="padding">
-      <SpecialOffers />{" "}
-    </section>{" "}
+      <SpecialOffers />
+    </section>
     <section className="bg-pale-blue padding">
-      <CustomerReviews />{" "}
-    </section>{" "}
+      <CustomerReviews />
+    </section>
     <section className="padding-x sm:py-32 w-full py-16">
       <Subscribe />
-    </section>{" "}
+    </section>
     <section className="padding-x padding-t pb-10 bg-black">
       <Footer />
     </section>

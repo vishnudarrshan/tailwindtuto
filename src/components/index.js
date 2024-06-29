@@ -1,4 +1,6 @@
 import ShoeCard from "./ShoeCard";
 import Button from "./Button";
 import PopularProductsCard from "./PopularProductsCard";
-export { ShoeCard, Button, PopularProductsCard };
+import ServiceCard from "./ServiceCard";
+import ReviewCard from "./ReviewCard";
+export { ReviewCard, ShoeCard, Button, PopularProductsCard, ServiceCard };
